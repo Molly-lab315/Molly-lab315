@@ -25,10 +25,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<a href="#Molly-lab315--title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Molly-lab315/&show_icons=true&count_private=true&include_all_commits=true" alt="Molly-lab315" align="right" />
-</a>
-
 - :school: &nbsp;🔭  I study in San Agustin University in Arequipa
 - :speech_balloon: &nbsp; 🌱 I like to talk about **Python**, **Matlab**, **Jupyter** and the **Jupyter** extension.
 - :mailbox: &nbsp; I am studying engineering in telecommunications. Another I study computer assembly.
