@@ -29,11 +29,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=sebastiandres&show_icons=true&count_private=true&include_all_commits=true" alt="Molly-lab315" align="right" />
 </a>
 
-- :school: &nbsp;I study in San Agustin University in Arequipa
-- :speech_balloon: &nbsp;I like to talk about **Python**, **Matlab**, **Jupyter** and the **Jupyter** extension.
-- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/Molly-lab315/Molly-lab315/issues)**
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/sebastiandres/)**
-- :speak_no_evil: &nbsp;See projects and talks at my **[website](https://sebastiandres.github.io/blog/)**
+- :school: &nbsp;🔭  I study in San Agustin University in Arequipa
+- :speech_balloon: &nbsp; 🌱 I like to talk about **Python**, **Matlab**, **Jupyter** and the **Jupyter** extension.
+- :mailbox: &nbsp; I am studying engineering in telecommunications. Another I study computer assembly.
+- :computer: &nbsp; Connect with me on **[LinkedIn](https://www.linkedin.com/in/sebastiandres/)**
+- :speak_no_evil: &nbsp; See projects and practice with JUpyter
 
 Some projects I'm particularly proud of:
 - Streamlit projects I've been working:
